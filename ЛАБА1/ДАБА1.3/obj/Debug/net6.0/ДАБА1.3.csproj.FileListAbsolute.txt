@@ -1,0 +1,30 @@
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.exe
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.deps.json
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.runtimeconfig.json
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.dll
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.pdb
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.csproj.AssemblyReference.cache
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.AssemblyInfoInputs.cache
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.AssemblyInfo.cs
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.csproj.CoreCompileInputs.cache
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.dll
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\refint\ДАБА1.3.dll
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.pdb
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.genruntimeconfig.cache
+C:\Users\dimal\OneDrive\Рабочий стол\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ref\ДАБА1.3.dll
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.exe
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.deps.json
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.runtimeconfig.json
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.dll
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\bin\Debug\net6.0\ДАБА1.3.pdb
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.csproj.AssemblyReference.cache
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.AssemblyInfoInputs.cache
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.AssemblyInfo.cs
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.csproj.CoreCompileInputs.cache
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.dll
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\refint\ДАБА1.3.dll
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.pdb
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ДАБА1.3.genruntimeconfig.cache
+C:\Users\dimal\OneDrive\Рабочий стол\дз\Новая папка (2)\инфа\ЛАБА1\ДАБА1.3\obj\Debug\net6.0\ref\ДАБА1.3.dll

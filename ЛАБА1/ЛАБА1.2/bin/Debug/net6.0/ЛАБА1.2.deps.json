@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ЛАБА1.2/1.0.0": {
+        "runtime": {
+          "ЛАБА1.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ЛАБА1.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
